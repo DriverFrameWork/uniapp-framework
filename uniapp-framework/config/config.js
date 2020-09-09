@@ -1,0 +1,4 @@
+const baseAPI  = "";
+export{
+	baseAPI
+}
